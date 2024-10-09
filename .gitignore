@@ -1,6 +1,0 @@
-/ckpt
-/common
-/data
-/models/ckpt
-/models/backbones/*.pth
-/trash

@@ -1,6 +1,6 @@
 # Meta-HMR
 
-Offcial implementation of  "Incorporating Test-Time Optimization into Training with Dual Networks for Human Mesh Recovery"
+Offcial implementation of  "Incorporating Test-Time Optimization into Training with Dual Networks for Human Mesh Recovery" [[arXiv](https://arxiv.org/abs/2401.14121)]
 
 ## Getting Started
 
